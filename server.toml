@@ -1,0 +1,13 @@
+name = GTA Ukhta DEV
+port = 7788
+host = '0.0.0.0'
+players = 128
+password = 'gtaukhta'
+announce = true
+# token = '900592a0-47a9-43ad-a30c-1d57b335700a'
+gamemode = 'Roleplay'
+website = 'example.com'
+language = 'ru'
+description = 'GTA Ukhta DEV'
+modules = ['js-module']
+resources = []
